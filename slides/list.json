@@ -2,20 +2,14 @@
     "welkom.html",
     "behandelen.html",
     "wat-is-ask-me.html",
+    "opmerkingen.html",
+    "watis.html",
     "concepten.html",
-    "object-structuur.html",
+    "status.html",
     "askme-tour.html",
-    [
-        "pagina-s.html",
-        "login-pagina.html",
-        "start-pagina.html",
-        "player-pagina.html",
-        "editor-pagina.html",
-        "beheer-pagina.html"
-    ],
-    "rollen.html",
+    "object-structuur.html",
     "media.html",
     "hoe-in-te-zetten.html",
-    "opmerkingen.html",
-    "einde.html"
+    "einde.html",
+    "beheer.html"
 ]
